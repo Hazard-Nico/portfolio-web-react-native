@@ -47,7 +47,7 @@ const projects: Project[] = [
       "React Native", "Django", "REST API", "PostgreSQL", "Celery"
     ],
     
-    previewImages: [ "/img/projects/tpa_mobilereport/Homescreen.jpg", "/img/projects/tpa_harvesting/BottomBar.jpg", "/img/projects/tpa_harvesting/Absensi.jpg", "/img/projects/tpa_harvesting/Absensi-1.jpg", "/img/projects/tpa_harvesting/Absensi-2.jpg", "/img/projects/tpa_harvesting/Absensi-3.jpg", "/img/projects/tpa_harvesting/Report Penerimaan TBS.jpg", "/img/projects/tpa_harvesting/Report Penerimaan TBS-1.jpg", "/img/projects/tpa_harvesting/Report Penerimaan TBS-2.jpg", "/img/projects/tpa_harvesting/Revisi Report Penerimaan TBS.jpg", "/img/projects/tpa_harvesting/Revisi Report Penerimaan TBS-1.jpg", "/img/projects/tpa_harvesting/Revisi Report Penerimaan TBS-2.jpg", ],
+    previewImages: [ "/img/projects/tpa_mobilereport/Homescreen.jpg", "/img/projects/tpa_mobilereport/BottomBar.jpg", "/img/projects/tpa_mobilereport/Absensi.jpg", "/img/projects/tpa_mobilereport/Absensi-1.jpg", "/img/projects/tpa_mobilereport/Absensi-2.jpg", "/img/projects/tpa_mobilereport/Absensi-3.jpg", "/img/projects/tpa_mobilereport/Report Penerimaan TBS.jpg", "/img/projects/tpa_mobilereport/Report Penerimaan TBS-1.jpg", "/img/projects/tpa_mobilereport/Report Penerimaan TBS-2.jpg", "/img/projects/tpa_mobilereport/Revisi Report Penerimaan TBS.jpg", "/img/projects/tpa_mobilereport/Revisi Report Penerimaan TBS-1.jpg", "/img/projects/tpa_mobilereport/Revisi Report Penerimaan TBS-2.jpg", ],
   },
   {
     title: "E-Fuel Management & Digital Approval Workflow",

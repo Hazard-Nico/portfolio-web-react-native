@@ -37,7 +37,7 @@ export default function AboutSection() {
           <div className="flex-shrink-0">
             <div className="relative w-40 h-40 md:w-56 md:h-56 rounded-full overflow-hidden shadow-lg border-4 border-blue-100 bg-white">
               <Image
-                src="/img/about-me.jpg" // Place your image in /public/profile.jpg
+                src="/img/pas-foto-removebg-preview.png" // Place your image in /public/profile.jpg
                 alt="Profile"
                 fill
                 // zoom
